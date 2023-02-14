@@ -1,0 +1,28 @@
+name: paswword_generator_manu_raph
+description: A new Flutter project.
+publish_to: 'none' 
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0-188.0.dev <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+    
+  sqflite: ^2.0.0+3
+  path:
+
+  cupertino_icons: ^1.0.2
+  intl: ^0.17.0
+  flutter_staggered_grid_view: ^0.4.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+flutter:
+
+  uses-material-design: true
